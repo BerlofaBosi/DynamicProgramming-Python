@@ -1,0 +1,32 @@
+{
+  "nome": "Fernando Costa",
+  "filhos": [
+    {
+      "nome": "Carla Costa",
+      "filhos": [
+        {
+          "nome": "Lucas Costa"
+        }
+      ]
+    },
+    {
+      "nome": "José Costa",
+      "filhos": [
+        {
+          "nome": "Paula Costa",
+          "filhos": [
+            {
+              "nome": "Rafael Costa"
+            },
+            {
+              "nome": "Tatiane Costa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mariana Costa"
+    }
+  ]
+}

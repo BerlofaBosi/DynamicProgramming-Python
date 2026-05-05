@@ -1,0 +1,37 @@
+{
+  "nome": "Carlos Oliveira",
+  "filhos": [
+    {
+      "nome": "Luciana Oliveira",
+      "filhos": [
+        {
+          "nome": "Gustavo Oliveira",
+          "filhos": [
+            {
+              "nome": "Felipe Oliveira"
+            }
+          ]
+        },
+        {
+          "nome": "Amanda Oliveira"
+        }
+      ]
+    },
+    {
+      "nome": "Ricardo Oliveira",
+      "filhos": [
+        {
+          "nome": "Juliana Oliveira",
+          "filhos": [
+            {
+              "nome": "Roberta Oliveira"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Márcia Oliveira"
+    }
+  ]
+}
